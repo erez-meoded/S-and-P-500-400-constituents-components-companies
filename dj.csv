@@ -1,0 +1,31 @@
+Symbol,Company,Exchange,Industry,Date Added,Notes
+AAPL,Apple,NASDAQ,Consumer electronics,2015-03-19,
+AXP,American Express,NYSE,Consumer finance,1982-08-30,
+BA,Boeing,NYSE,Aerospace and defense,1987-03-12,
+CAT,Caterpillar,NYSE,Construction and mining equipment,1991-05-06,
+CSCO,Cisco Systems,NASDAQ,Computer networking,2009-06-08,
+CVX,Chevron,NYSE,Oil & gas,2008-02-19,also 1930-07-18 to 1999-11-01
+DIS,Walt Disney,NYSE,Broadcasting and entertainment,1991-05-06,
+DWDP,DowDuPont,NYSE,Chemical industry,2017-09-01,
+GE,General Electric,NYSE,Conglomerate,1907-11-07,also 1896-05-26 to 1898-10 and 1899-04-21 to 1901-04-01
+GS,Goldman Sachs,NYSE,"Banking, Financial services",2013-09-20,
+HD,The Home Depot,NYSE,Home improvement retailer,1999-11-01,
+IBM,IBM,NYSE,Computers and technology,1979-06-29,also 1932-05-26 to 1939-03-04
+INTC,Intel,NASDAQ,Semiconductors,1999-11-01,
+JNJ,Johnson & Johnson,NYSE,Pharmaceuticals,1997-03-17,
+JPM,JPMorgan Chase,NYSE,Banking,1991-05-06,
+KO,Coca-Cola,NYSE,Beverages,1987-03-12,also 1932-05-26 to 1935-11-20
+MCD,McDonald's,NYSE,Fast food,1985-10-30,
+MMM,3M,NYSE,Conglomerate,1976-08-09,as Minnesota Mining and Manufacturing
+MRK,Merck,NYSE,Pharmaceuticals,1979-06-29,
+MSFT,Microsoft,NASDAQ,Software,1999-11-01,
+NKE,Nike,NYSE,Apparel,2013-09-20,
+PFE,Pfizer,NYSE,Pharmaceuticals,2004-04-08,
+PG,Procter & Gamble,NYSE,Consumer goods,1932-05-26,
+TRV,Travelers,NYSE,Insurance,2009-06-08,
+UNH,UnitedHealth Group,NYSE,Managed health care,2012-09-24,
+UTX,United Technologies,NYSE,Conglomerate,1939-03-14,as United Aircraft
+V,Visa,NYSE,Consumer banking,2013-09-20,
+VZ,Verizon,NYSE,Telecommunication,2004-04-08,
+WMT,Walmart,NYSE,Retail,1997-03-17,
+XOM,ExxonMobil,NYSE,Oil & gas,1928-10-01,as Standard Oil of New Jersey
