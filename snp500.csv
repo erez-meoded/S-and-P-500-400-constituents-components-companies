@@ -1,4 +1,4 @@
-Symbol,Name,cik
+symbol,name,cik
 MMM,3M Company,0000066740
 ABT,Abbott Laboratories,0000001800
 ABBV,AbbVie Inc.,0001551152
@@ -259,6 +259,7 @@ IFF,Intl Flavors & Fragrances,0000051253
 INTU,Intuit Inc.,0000896878
 ISRG,Intuitive Surgical Inc.,0001035267
 IVZ,Invesco Ltd.,0000914208
+IQV,IQVIA Holdings Inc.,0001478242
 IRM,Iron Mountain Incorporated,0001020569
 JEC,Jacobs Engineering Group,0000052988
 JBHT,J. B. Hunt Transport Services,0000728535
@@ -389,7 +390,6 @@ QRVO,Qorvo,0001604778
 PWR,Quanta Services Inc.,0001050915
 QCOM,QUALCOMM Inc.,0000804328
 DGX,Quest Diagnostics,0001022079
-Q,"Quintiles IMS Holdings, Inc",0001478242
 RRC,Range Resources Corp.,0000315852
 RJF,Raymond James Financial Inc.,0000720005
 RTN,Raytheon Co.,0001047122

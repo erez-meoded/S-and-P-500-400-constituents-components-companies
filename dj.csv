@@ -1,31 +1,31 @@
-Symbol,Name,cik
-MMM,3M,
-AXP,American Express,
-AAPL,Apple,
-BA,Boeing,
-CAT,Caterpillar,
-CVX,Chevron,
-CSCO,Cisco Systems,
-KO,Coca-Cola,
-DWDP,DowDuPont,
-XOM,ExxonMobil,
-GE,General Electric,
-GS,Goldman Sachs,
-HD,The Home Depot,
-IBM,IBM,
-INTC,Intel,
-JNJ,Johnson & Johnson,
-JPM,JPMorgan Chase,
-MCD,McDonald's,
-MRK,Merck,
-MSFT,Microsoft,
-NKE,Nike,
-PFE,Pfizer,
-PG,Procter & Gamble,
-TRV,Travelers,
-UNH,UnitedHealth Group,
-UTX,United Technologies,
-VZ,Verizon,
-V,Visa,
-WMT,Walmart,
-DIS,Walt Disney,
+symbol,name
+MMM,3M
+AXP,American Express
+AAPL,Apple
+BA,Boeing
+CAT,Caterpillar
+CVX,Chevron
+CSCO,Cisco Systems
+KO,Coca-Cola
+DWDP,DowDuPont
+XOM,ExxonMobil
+GE,General Electric
+GS,Goldman Sachs
+HD,The Home Depot
+IBM,IBM
+INTC,Intel
+JNJ,Johnson & Johnson
+JPM,JPMorgan Chase
+MCD,McDonald's
+MRK,Merck
+MSFT,Microsoft
+NKE,Nike
+PFE,Pfizer
+PG,Procter & Gamble
+TRV,Travelers
+UNH,UnitedHealth Group
+UTX,United Technologies
+VZ,Verizon
+V,Visa
+WMT,Walmart
+DIS,Walt Disney
